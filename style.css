@@ -1,0 +1,16 @@
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+  }
+  body{
+    background-color: rgb(42, 71, 176);
+  }
+  section,
+  footer{
+    padding: 54px 0;
+    background-color: rgb(122, 178, 211);
+
+  }
